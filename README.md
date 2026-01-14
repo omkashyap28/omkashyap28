@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hariom Kashyap</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Nextjs**
 
-- 🤝 I’m looking for help with [YoutubeBackend](https://github.com/omkashyap28/YoutubeBackend)
-
-- 💬 Ask me about **react, gsap, motion, mysql**
+- 💬 Ask me about **react, gsap, motion, mysql, javascript**
 
 - ⚡ Fun fact **I have hunger of learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-om-kashyap-b176b63a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-om-kashyap-b176b63a5" height="30" width="40" /></a>
 <a href="https://instagram.com/omkashyap6870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkashyap6870" height="30" width="40" /></a>
 </p>
 
